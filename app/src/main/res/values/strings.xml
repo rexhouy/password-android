@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="action_update">Update preferences</string>
+    <string name="search_hint">Search URL</string>
+    <string name="search">Search</string>
+    <string name="copied_to_clickboard">Copied to clickboard</string>
+</resources>
